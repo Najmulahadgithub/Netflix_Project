@@ -1,0 +1,116 @@
+.logo img{
+    width: 200px;
+    height: 150px;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0px 20px 20px 20px;
+}
+.body{
+    background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(./netflix.jpg);
+    background-size: cover;
+    background-color: black;
+    margin: 0px;
+    padding-bottom: 10%;
+
+}
+body{
+    margin: 0px;
+    border: none;
+    padding: 0px;
+}
+
+#button1{
+    background-color: black;
+    color: white;
+    border: 1px solid white;
+    padding: 10px;
+}
+#button2{
+    background-color: red;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    padding: 10px;
+    margin-left: 20px;
+}
+.content{
+    color: white;
+    text-align: center;
+    margin-top: 60px;
+}
+.content h1{
+    font-size: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+}
+.content p{
+    margin-top: 5px;
+    font-size: larger;
+}
+.form{
+    display:flex; 
+    justify-content: center;
+    align-items: center;
+}
+input{
+    height: 42.5px;
+    width: 500px;
+    font-size: larger;
+}
+.button_form{
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 16px;
+    padding-top: 18px;
+    width: 200px;
+}
+.th h1{
+    color: white;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.th p{
+    color: white;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.pic img{
+    width: 450px;
+    height: 300px;
+    padding-bottom: 50px;
+}
+.content2{
+    background-color: black;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin: 0px;
+}
+.th2 h1{
+    color: white;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.th2 p{
+    color: white;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.content3{
+    background-color:black;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin: 0px;
+}
+hr{
+    border: none;
+    padding: 5px;
+    margin: 0px;
+}
+
+
